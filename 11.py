@@ -1,4 +1,4 @@
-gz = 4
+gz = 16
 def bSort(a):
     l = len(a)
     for i in range(l):
